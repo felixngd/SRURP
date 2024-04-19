@@ -1,0 +1,47 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+.idea/
+Logs/
+/default-2021.dwlt
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.log
+*.exe0.log
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ============ #
+# Spriter      #
+# ============ #
+*.scml
+*.scml.meta
+Shadow URP/Assets/VsCode*
+Shadow URP/Assets/Test*
+.vscode*
+.vs*
+*.apk
+*.keystore
